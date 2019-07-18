@@ -1,14 +1,15 @@
 # Personagem Plataforma
-Por: Jaqueline Paula
-Projeto desenvolvido utilizando à Game Engine Unity.
 
-Objetivo
+Por: ***Jaqueline Paula***
+
+Projeto desenvolvido utilizando à *Game Engine* Unity.
+
+## Objetivo
 Criar um sistema em que um personagem fica em cima de uma plataforma. Esse projeto foi construído em 2D.
 
-Elementos utilizados
+## Elementos utilizados
 Rigidbody
 BoxCollider
 
-
-Sprites
+## Recursos
 Game Art 2D
