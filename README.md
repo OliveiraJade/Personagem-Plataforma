@@ -1,2 +1,2 @@
 # Personagem-Plataforma
-Pro: Jaqueline Paula
+Por: Jaqueline Paula
