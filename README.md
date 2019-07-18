@@ -1,8 +1,8 @@
 # Personagem Plataforma
 
-Por: ***Jaqueline Paula***
+Por: ***[Jaqueline Paula](https://www.linkedin.com/in/jaqueline-paula-829778174)***
 
-Projeto desenvolvido utilizando à *Game Engine* Unity.
+Projeto desenvolvido utilizando à *Game Engine* [Unity](https://unity.com/pt).
 
 ### Objetivo
 1. Criar um sistema em que um personagem fica em cima de uma plataforma. Esse projeto foi construído em 2D.
@@ -12,4 +12,12 @@ Projeto desenvolvido utilizando à *Game Engine* Unity.
 2. BoxCollider
 
 ### Recursos
-1. Game Art 2D
+1. Sprites: [Game Art 2D](https://www.gameart2d.com)
+
+![Pudim](http://pudim.com.br/pudim.jpg)
+
+>Se a vida não ficar fácil, trata de ficar forte.
+
+*Exemplo de comando:*
+´´´Debug.log("teste");´´´
+
