@@ -5,11 +5,11 @@ Por: ***Jaqueline Paula***
 Projeto desenvolvido utilizando à *Game Engine* Unity.
 
 ### Objetivo
-- Criar um sistema em que um personagem fica em cima de uma plataforma. Esse projeto foi construído em 2D.
+1. Criar um sistema em que um personagem fica em cima de uma plataforma. Esse projeto foi construído em 2D.
 
 ### Elementos utilizados
-- Rigidbody
-- BoxCollider
+1. Rigidbody
+2. BoxCollider
 
 ### Recursos
-- Game Art 2D
+1. Game Art 2D
